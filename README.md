@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+My first application with API Integration
+
+GetX state management is used in this project
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
